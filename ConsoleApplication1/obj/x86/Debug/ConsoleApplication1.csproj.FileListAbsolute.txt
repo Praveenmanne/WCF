@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2010\Projects\MyserviceApp\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\MyserviceApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\administrator\documents\visual studio 2010\Projects\MyserviceApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\administrator\documents\visual studio 2010\Projects\MyserviceApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MyserviceApp\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+c:\users\administrator\documents\visual studio 2010\Projects\MyserviceApp\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

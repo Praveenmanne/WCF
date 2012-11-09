@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2010\Projects\MyserviceApp\MyserviceApp\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\MyserviceApp\MyserviceApp\bin\MyserviceApp.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MyserviceApp\MyserviceApp\bin\MyserviceApp.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MyserviceApp\MyserviceApp\obj\Debug\MyserviceApp.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MyserviceApp\MyserviceApp\obj\Debug\MyserviceApp.pdb

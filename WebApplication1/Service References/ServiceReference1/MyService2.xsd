@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/MyserviceApp" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/MyserviceApp" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfUsersinfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Usersinfo" nillable="true" type="tns:Usersinfo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfUsersinfo" nillable="true" type="tns:ArrayOfUsersinfo" />
+  <xs:complexType name="Usersinfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Address" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="username" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Usersinfo" nillable="true" type="tns:Usersinfo" />
+</xs:schema>
